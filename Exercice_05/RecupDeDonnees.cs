@@ -43,7 +43,7 @@ namespace Exercice_05
 
         public void Resultat()
         {
-            /*switch (discriminant)
+            switch (discriminant)
             {
                 case 0:
                     if (discriminant > 0)
@@ -63,7 +63,7 @@ namespace Exercice_05
                     }
                     break;
 
-             }*/
+             }
         }
     }
 }
